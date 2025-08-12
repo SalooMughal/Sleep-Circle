@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "384819839490",
+    "project_id": "snoozesage",
+    "storage_bucket": "snoozesage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384819839490:android:3e2477bad0abd835431d1b",
+        "android_client_info": {
+          "package_name": "com.example.demoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOmphuRVTSEMF1IVeSCiJ2s19ANRIoTwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
